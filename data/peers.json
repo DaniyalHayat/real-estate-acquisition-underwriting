@@ -1,0 +1,38 @@
+[
+  {
+    "ticker": "PK",
+    "price": 10.46,
+    "shares_m": 199.901086,
+    "net_debt_m": 3721,
+    "preferred_m": 0,
+    "nci_m": 0,
+    "ebitda_m": 609,
+    "ffo_ps": 1.97,
+    "basis": "Issuer pro rata net debt including JV debt and restricted cash; NCI immaterial book deficit excluded",
+    "source": "PKER;PK10K;PKPRICE"
+  },
+  {
+    "ticker": "HST",
+    "price": 17.73,
+    "shares_m": 697.4,
+    "net_debt_m": 4638,
+    "preferred_m": 0,
+    "nci_m": 0,
+    "ebitda_m": 1757,
+    "ffo_ps": 2.07,
+    "basis": "Common shares including OP units; net debt includes $329m share of JV debt",
+    "source": "HSTSUP;HSTER"
+  },
+  {
+    "ticker": "PEB",
+    "price": 11.32,
+    "shares_m": 113.188134,
+    "net_debt_m": 1939.907,
+    "preferred_m": 676.724,
+    "nci_m": 94.117,
+    "ebitda_m": 342.5,
+    "ffo_ps": 1.58,
+    "basis": "Book debt less unrestricted cash; preferred at liquidation value; NCI at book proxy, not market value",
+    "source": "PEBER;PEBPRICE"
+  }
+]

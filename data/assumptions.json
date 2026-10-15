@@ -1,0 +1,209 @@
+{
+  "entry_multiple": 10.5,
+  "exit_multiple": 10.5,
+  "senior_leverage": 3.5,
+  "junior_leverage": 1.0,
+  "senior_rate": 0.075,
+  "junior_rate": 0.105,
+  "senior_amort": 0.01,
+  "junior_amort": 0.01,
+  "cash_sweep": 0.75,
+  "min_cash": 100,
+  "fees_pct": 0.02,
+  "tax_rate": 0.25,
+  "wacc": 0.095,
+  "terminal_growth": 0.025,
+  "cap_rate": 0.085,
+  "reserve_pct": 0.04,
+  "max_leverage": 6.0,
+  "min_dscr": 1.25,
+  "hurdle": 0.2,
+  "asset_life": 25,
+  "new_capex_life": 15,
+  "property_damage": 100,
+  "bi_loss": 20,
+  "property_deductible": 10,
+  "combined_property_bi_limit": 75,
+  "claim_count": 30,
+  "claim_severity": 0.4,
+  "gl_retention": 0.1,
+  "gl_limit": 2,
+  "assumed_premium": 15,
+  "premium_increase": 0.2,
+  "scenarios": {
+    "Base": {
+      "room_growth": [
+        0.035,
+        0.04,
+        0.03,
+        0.025,
+        0.025
+      ],
+      "food_growth": [
+        0.025,
+        0.03,
+        0.025,
+        0.025,
+        0.025
+      ],
+      "other_growth": [
+        0.025,
+        0.025,
+        0.025,
+        0.025,
+        0.025
+      ],
+      "margin": [
+        0.245,
+        0.255,
+        0.265,
+        0.27,
+        0.27
+      ],
+      "capex_pct": [
+        0.11,
+        0.09,
+        0.075,
+        0.07,
+        0.07
+      ],
+      "nwc_pct": [
+        -0.06,
+        -0.06,
+        -0.06,
+        -0.06,
+        -0.06
+      ],
+      "rate_shock": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "insured_event": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Upside": {
+      "room_growth": [
+        0.055,
+        0.06,
+        0.045,
+        0.035,
+        0.03
+      ],
+      "food_growth": [
+        0.04,
+        0.045,
+        0.035,
+        0.03,
+        0.03
+      ],
+      "other_growth": [
+        0.04,
+        0.04,
+        0.04,
+        0.04,
+        0.04
+      ],
+      "margin": [
+        0.26,
+        0.275,
+        0.285,
+        0.29,
+        0.29
+      ],
+      "capex_pct": [
+        0.1,
+        0.085,
+        0.07,
+        0.065,
+        0.065
+      ],
+      "nwc_pct": [
+        -0.06,
+        -0.06,
+        -0.06,
+        -0.06,
+        -0.06
+      ],
+      "rate_shock": [
+        -0.005,
+        -0.005,
+        -0.005,
+        -0.005,
+        -0.005
+      ],
+      "insured_event": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Downside": {
+      "room_growth": [
+        -0.08,
+        -0.03,
+        0.03,
+        0.03,
+        0.025
+      ],
+      "food_growth": [
+        -0.07,
+        -0.03,
+        0.025,
+        0.025,
+        0.025
+      ],
+      "other_growth": [
+        -0.05,
+        -0.02,
+        0.02,
+        0.02,
+        0.02
+      ],
+      "margin": [
+        0.2,
+        0.185,
+        0.215,
+        0.23,
+        0.24
+      ],
+      "capex_pct": [
+        0.11,
+        0.1,
+        0.08,
+        0.075,
+        0.075
+      ],
+      "nwc_pct": [
+        -0.05,
+        -0.05,
+        -0.05,
+        -0.05,
+        -0.05
+      ],
+      "rate_shock": [
+        0.02,
+        0.02,
+        0.02,
+        0.02,
+        0.02
+      ],
+      "insured_event": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+}

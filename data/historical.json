@@ -1,0 +1,157 @@
+{
+  "room_revenue": [
+    1653,
+    1569,
+    1505
+  ],
+  "food_revenue": [
+    696,
+    688,
+    685
+  ],
+  "ancillary_revenue": [
+    264,
+    256,
+    259
+  ],
+  "other_revenue": [
+    85,
+    86,
+    92
+  ],
+  "revenue": [
+    2698,
+    2599,
+    2541
+  ],
+  "room_expense": [
+    449,
+    419,
+    411
+  ],
+  "food_expense": [
+    501,
+    474,
+    478
+  ],
+  "support_expense": [
+    635,
+    605,
+    596
+  ],
+  "property_expense": [
+    241,
+    231,
+    216
+  ],
+  "management_fees": [
+    126,
+    125,
+    118
+  ],
+  "impairment_casualty": [
+    204,
+    14,
+    319
+  ],
+  "da": [
+    287,
+    257,
+    336
+  ],
+  "corporate_expense": [
+    65,
+    69,
+    72
+  ],
+  "other_expense": [
+    83,
+    82,
+    88
+  ],
+  "gain_asset_sale": [
+    15,
+    8,
+    2
+  ],
+  "gain_derecognition": [
+    221,
+    60,
+    58
+  ],
+  "operating_income": [
+    343,
+    391,
+    -33
+  ],
+  "interest_income": [
+    38,
+    21,
+    10
+  ],
+  "interest_expense": [
+    207,
+    214,
+    209
+  ],
+  "receivership_interest": [
+    45,
+    60,
+    58
+  ],
+  "affiliate_income": [
+    11,
+    31,
+    4
+  ],
+  "other_gain": [
+    4,
+    -4,
+    16
+  ],
+  "pretax_income": [
+    144,
+    165,
+    -270
+  ],
+  "tax_expense": [
+    38,
+    -61,
+    7
+  ],
+  "net_income": [
+    106,
+    226,
+    -277
+  ],
+  "cfo": [
+    503,
+    429,
+    398
+  ],
+  "capex": [
+    285,
+    227,
+    296
+  ],
+  "cfi": [
+    -217,
+    -166,
+    -209
+  ],
+  "cff": [
+    -475,
+    -573,
+    -365
+  ],
+  "cash_begin_restricted": [
+    939,
+    750,
+    440
+  ],
+  "cash_end_restricted": [
+    750,
+    440,
+    264
+  ]
+}

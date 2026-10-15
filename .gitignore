@@ -1,0 +1,5 @@
+node_modules/
+__pycache__/
+*.pyc
+*.inspect.ndjson
+.DS_Store

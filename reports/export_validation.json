@@ -1,0 +1,10 @@
+{
+  "worksheets": 13,
+  "formulas": 607,
+  "native_data_tables": 1,
+  "charts": 1,
+  "formula_errors": [],
+  "base_case_zero_checks": 50,
+  "formula_cells_without_numeric_cache": [],
+  "native_excel_executed": false
+}
